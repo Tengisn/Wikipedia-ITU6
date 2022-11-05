@@ -24,17 +24,17 @@ main {
     justify-content: space-between;
     width: 580px;
 }
-.title h2 {
+.title h1 {
     font-size: 1.8rem;
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: .1rem;
 }
-.title h2::first-letter {
+.title h1::first-letter {
     content: 'a';
     font-size: 2.3rem;
 }
-.title h2::after {
+.title h1::after {
     content: 'a';
     font-size: 2.3rem;
 }
