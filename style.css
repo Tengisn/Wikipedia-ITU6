@@ -79,6 +79,9 @@ main {
     border-color: var(--blue-clr);
     border-width: 3px;
 }
+#searchLanguage {
+    width: 42.5px;
+}
 .search span {
     display: inline-block;
     width: 55px;
