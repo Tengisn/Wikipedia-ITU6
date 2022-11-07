@@ -30,11 +30,11 @@ main {
     text-transform: uppercase;
     letter-spacing: .1rem;
 }
-.title h1::first-letter {
+.title h2::first-letter {
     content: 'a';
     font-size: 2.3rem;
 }
-.title h1::after {
+.title h2::after {
     content: 'a';
     font-size: 2.3rem;
 }
