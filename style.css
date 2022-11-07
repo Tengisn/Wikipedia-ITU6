@@ -24,7 +24,7 @@ main {
     justify-content: space-between;
     width: 580px;
 }
-.title h1 {
+.title h2 {
     font-size: 1.8rem;
     font-weight: 400;
     text-transform: uppercase;
@@ -37,6 +37,10 @@ main {
 .title h2::after {
     content: 'a';
     font-size: 2.3rem;
+}
+.title h1 {
+    font-size: small;
+    font-style: normal;
 }
 .single {
     margin: 1.3rem 0;
